@@ -1,0 +1,28 @@
+body {
+  background-color: #ff6a17;
+}
+
+h1 {
+  color: #572A00;
+  text-align: center;
+}
+
+h3 {
+  color: #FFC217;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+p1 {
+  color: #FFC217;
+}
+/*# sourceMappingURL=Main.css.map */

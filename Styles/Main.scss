@@ -1,0 +1,24 @@
+$primary-color: #ff6a17;
+$border-color:#F7173A;
+$text-color: #572A00;
+$extra-color: #FFC217;
+
+body {
+background-color: $primary-color;
+}
+h1{
+    color: $text-color;
+text-align: center;
+}
+h3{
+    color: $extra-color;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+p1{
+    color: $extra-color
+}
+
